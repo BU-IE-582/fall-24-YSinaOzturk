@@ -8,9 +8,7 @@ You can review the homework and the project work on this website for IE582.
 
 [Project](files\Project\Project.pdf): Optimizing Live Betting Strategy on footbal matches, using supervised and unsupervised learning techniques. Codes of the project can be found [here](files\Project\model_training.ipynb)
 
-
-It can be seen Explatory Data Analysis report of used data before any manipulation in this project [here](files\Project\Project_EDA.html)
-After data cleaning, imputation and feature engineering steps, Explatory Data Analysis had been done one more time with this [code file](files\Project\data_prep.ipynb). EDA report also can be found [here](files\Project\Project_Imputed_Data_EDA.html)
+It can be seen Explatory Data Analysis report of used data before any manipulation in this project [here](files\Project\Project_EDA.html). Data cleaning, imputation and feature engineering steps done in this [code file](files\Project\data_prep.ipynb), after these steps Explatory Data Analysis had been done one more time and it can be found [here](files\Project\Project_Imputed_Data_EDA.html).
 
 ### Information
 
